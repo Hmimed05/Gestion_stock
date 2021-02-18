@@ -32,17 +32,17 @@ public class add_article_activity extends AppCompatActivity implements View.OnCl
 
         if(name.equals("")){
 
-            prodName.setError("Please Fill Product Name");
+            prodName.setError("le nom d'article SVP");
             return;
         }
         if(price.equals("")){
 
-            prodPrice.setError("Please Fill Price");
+            prodPrice.setError("le prix SVP");
             return;
         }
         if(qte.equals("")){
 
-            prodQte.setError("Please Fill Quantity");
+            prodQte.setError("La Qunatité SVP");
             return;
         }
 
