@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">miniProjet2 : Gestion de stock</string>
+    <string name="price">DH</string>
+    <string name="prodName">Article</string>
+    <string name="qteProd">Quantité</string>
+    <string name="purchase">livrer</string>
+    <string name="prodNum">Num</string>
+    <string name="dateOperation">Date</string>
+    <string name="price_string">Prix</string>
+</resources>
